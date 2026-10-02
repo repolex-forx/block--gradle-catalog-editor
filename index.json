@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "gradle-catalog-editor",
+  "versions": [
+    {
+      "commit": "10fc19b8c35805961ce1d22fa795167a693b65c7",
+      "tag": "main",
+      "parsed_at": "2026-10-02T11:00:36.403027+00:00"
+    }
+  ]
+}
