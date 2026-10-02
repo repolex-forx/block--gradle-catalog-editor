@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/gradle-catalog-editor/commit/10fc19b8c35805961ce1d22fa795167a693b65c7",
       "git:hexsha": "10fc19b8c35805961ce1d22fa795167a693b65c7",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "0.1.1"
     },
     {
